@@ -1,2 +1,2 @@
 # Well_log_Prediction
-Prediction of Equinor Volve well logs Data
+This is not my repository, but forked from dapson2real/Well_log_Prediction using Equinor Volve well logs Dataset. Very good. 
